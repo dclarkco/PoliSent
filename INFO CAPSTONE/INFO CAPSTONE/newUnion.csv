@@ -1,0 +1,301 @@
+Index,Company Name,rating a,rating b,error
+#1,Patagonia,82.7,31,#ERROR!
+#2,Honda Motor Company,81.6,14,#ERROR!
+#3,Moderna,81.3,–,#ERROR!
+#4,Chick-fil-A,81.1,7,#ERROR!
+#5,SpaceX,81.1,–,#ERROR!
+#6,Chewy,80.9,–,#ERROR!
+#7,Pfizer,80.2,54,#ERROR!
+#8,Tesla Motors,80.2,10,#ERROR!
+#9,Costco,80.1,2,#ERROR!
+#10,Amazon.com,80,7,#ERROR!
+#11,REI,79.9,–,#ERROR!
+#12,USAA,79.2,9,#ERROR!
+#13,Wegmans,79.2,7,#ERROR!
+#14,Subaru,79.2,–,#ERROR!
+#15,Unilever,79.2,20,#ERROR!
+#16,Apple,79.1,11,#ERROR!
+#17,In-n-Out Burger,78.7,–,#ERROR!
+#18,Toyota Motor Corporation,78.7,3,#ERROR!
+#19,UPS,78.6,9,#ERROR!
+#20,PepsiCo,78.5,6,#ERROR!
+#21,IKEA,78.4,–,#ERROR!
+#22,Lowe's,78.3,7,#ERROR!
+#23,Publix Supermarkets,78.2,19,#ERROR!
+#24,CVS (CVS Health),78.2,13,#ERROR!
+#25,3M Company,78.1,13,#ERROR!
+#26,"HP, Inc.",78.1,–,#ERROR!
+#27,Berkshire Hathaway,78,13,#ERROR!
+#28,Hulu,77.9,15,#ERROR!
+#29,Nestle,77.7,7,#ERROR!
+#30,The Kroger Company,77.5,21,#ERROR!
+#31,Samsung,77.5,9,#ERROR!
+#32,Paypal,77.5,–,#ERROR!
+#33,FedEx Corporation,77.4,13,#ERROR!
+#34,Sony,77.3,–,#ERROR!
+#35,Procter & Gamble Co.,77,27,#ERROR!
+#36,Microsoft,76.8,17,#ERROR!
+#37,The Walt Disney Company,76.7,14,#ERROR!
+#38,Netflix,76.4,21,#ERROR!
+#39,IBM,76.3,6,#ERROR!
+#40,General Electric,76.1,14,#ERROR!
+#41,Target,76,10,#ERROR!
+#42,Wayfair,75.8,–,#ERROR!
+#43,Citigroup,75.7,17,#ERROR!
+#44,American Express,75.6,–,#ERROR!
+#45,The Home Depot,75.4,1,#ERROR!
+#46,Walgreens,75.3,8,#ERROR!
+#47,Kaiser Permanente,75.3,–,#ERROR!
+#48,Best Buy,75.2,1,#ERROR!
+#49,Adidas,75.1,–,#ERROR!
+#50,Ford Motor Company,75.1,13,#ERROR!
+#51,"Electronic Arts, Inc.",74.7,–,#ERROR!
+#52,State Farm Insurance,74.7,7,#ERROR!
+#53,Hobby Lobby,74.5,–,#ERROR!
+#54,JPMorgan Chase & Co.,74.5,8,#ERROR!
+#55,Kohl's,74.4,16,#ERROR!
+#56,T-Mobile,74.3,13,#ERROR!
+#57,Domino's Pizza,73.7,–,#ERROR!
+#58,The Coca-Cola Company,73.7,17,#ERROR!
+#59,Goya,73.5,–,#ERROR!
+#60,Google,73.3,36,#ERROR!
+#61,Verizon Communications,73.2,9,#ERROR!
+#62,Nike,72.8,6,#ERROR!
+#63,Nordstrom,72.8,2,#ERROR!
+#64,Macy's,72.3,6,#ERROR!
+#65,Starbucks Corporation,72.3,10,#ERROR!
+#66,eBay,72.1,12,#ERROR!
+#67,Wendy's,72.1,17,#ERROR!
+#68,General Motors,72,14,#ERROR!
+#69,Royal Dutch Shell,71.6,–,#ERROR!
+#70,Yum! Brands,71.5,21,#ERROR!
+#71,Dollar General,71.4,19,#ERROR!
+#72,Johnson & Johnson,71.4,4,#ERROR!
+#73,McDonald's,71.1,1,#ERROR!
+#74,Dollar Tree,71.1,–,#ERROR!
+#75,Fiat Chrysler Automobiles,70.8,–,#ERROR!
+#76,Chipotle,70.8,6,#ERROR!
+#77,Bank of America,70.5,10,#ERROR!
+#78,Reddit,70.4,–,#ERROR!
+#79,Robinhood,70.4,–,#ERROR!
+#80,ExxonMobil,70.4,7,#ERROR!
+#81,Delta Air Lines,70.4,24,#ERROR!
+#82,GameStop,69.7,–,#ERROR!
+#83,Walmart,69.7,2,#ERROR!
+#84,Burger King,69.4,2,#ERROR!
+#85,BP,68.2,6,#ERROR!
+#86,AT&T,67.6,10,#ERROR!
+#87,United Airlines,67.4,2,#ERROR!
+#88,Huawei Technologies,67.1,–,#ERROR!
+#89,JCPenney,66.3,3,#ERROR!
+#90,Uber,66.2,10,#ERROR!
+#91,My Pillow,66,–,#ERROR!
+#92,Comcast,65.8,1,#ERROR!
+#93,Twitter,63.4,2,#ERROR!
+#94,TikTok,63,–,#ERROR!
+#95,Wells Fargo & Company,63,1,#ERROR!
+#96,Sears Holdings Corporation,61.2,–,#ERROR!
+#97,Wish.com,60.7,–,#ERROR!
+#98,Facebook,60,1,#ERROR!
+#99,Fox Corporation,59.2,5,#ERROR!
+#100,The Trump Organization,56.9,1,#ERROR!
+#1,The Clorox Company,82.8,–,#ERROR!
+#2,The Hershey Company,81.5,–,#ERROR!
+#3,Amazon.com,81.4,1,#ERROR!
+#4,Publix Supermarkets,81.2,2,#ERROR!
+#5,General Mills,81.2,–,#ERROR!
+#6,Wegmans,80.4,5,#ERROR!
+#7,Costco,80.3,11,#ERROR!
+#8,Procter & Gamble Co.,79.9,–,#ERROR!
+#9,The Kroger Company,79.4,12,#ERROR!
+#10,UPS,79.4,1,#ERROR!
+#11,Chick-fil-A,79.2,11,#ERROR!
+#12,3M Company,78.9,–,#ERROR!
+#13,Hulu,78.8,–,#ERROR!
+#14,PepsiCo,78.7,36,#ERROR!
+#15,Toyota Motor Corporation,78.5,22,#ERROR!
+#16,Honda Motor Company,78.5,20,#ERROR!
+#17,Netflix,78.4,7,#ERROR!
+#18,Tesla Motors,78.1,24,#ERROR!
+#19,Microsoft,77.8,10,#ERROR!
+#20,FedEx Corporation,77.7,–,#ERROR!
+#21,USAA,77.7,4,#ERROR!
+#22,Samsung,77.6,15,#ERROR!
+#23,The Walt Disney Company,77.4,18,#ERROR!
+#24,Google,77.2,17,#ERROR!
+#25,Honeywell International,77.1,–,#ERROR!
+#26,General Electric,77,17,#ERROR!
+#27,Apple,76.9,5,#ERROR!
+#28,Zoom Video,76.7,–,#ERROR!
+#29,Lowe's,76.5,9,#ERROR!
+#30,The Kraft Heinz Company,76.3,16,#ERROR!
+#31,Peloton,76.2,–,#ERROR!
+#32,Patagonia,76.1,29,#ERROR!
+#33,IBM,76,16,#ERROR!
+#34,Dell,75.9,5,#ERROR!
+#35,Unilever,75.9,10,#ERROR!
+#36,Nestle,75.9,8,#ERROR!
+#37,CVS (CVS Health),75.6,11,#ERROR!
+#38,Walgreens,75.6,2,#ERROR!
+#39,Kohl's,75.4,1,#ERROR!
+#40,Berkshire Hathaway,75.3,5,#ERROR!
+#41,The Coca-Cola Company,75.2,10,#ERROR!
+#42,DoorDash,75.1,–,#ERROR!
+#43,Mastercard,75,–,#ERROR!
+#44,Instacart,74.7,–,#ERROR!
+#45,State Farm Insurance,74.6,21,#ERROR!
+#46,The Home Depot,74.6,34,#ERROR!
+#47,Best Buy,74.6,13,#ERROR!
+#48,Southwest Airlines,74.4,6,#ERROR!
+#49,Yum! Brands,74.4,19,#ERROR!
+#50,Wendy's,74.3,–,#ERROR!
+#51,Target,74.2,21,#ERROR!
+#52,Verizon Communications,73.9,12,#ERROR!
+#53,Grubhub Inc.,73.8,–,#ERROR!
+#54,General Motors,73.8,16,#ERROR!
+#55,Starbucks Corporation,73.5,4,#ERROR!
+#56,Nike,73.4,21,#ERROR!
+#57,Delta Air Lines,73.3,16,#ERROR!
+#58,Macy's,73.1,11,#ERROR!
+#59,UnitedHealth Group,73.1,–,#ERROR!
+#60,Citigroup,73.1,15,#ERROR!
+#61,Pfizer,73,–,#ERROR!
+#62,JPMorgan Chase & Co.,72.7,10,#ERROR!
+#63,Ford Motor Company,72.4,5,#ERROR!
+#64,Capital One Financial Corporation,72.1,2,#ERROR!
+#65,Nordstrom,72,19,#ERROR!
+#66,Molson Coors Brewing Company,71.9,–,#ERROR!
+#67,Forever 21,71.5,–,#ERROR!
+#68,Johnson & Johnson,71.4,35,#ERROR!
+#69,T-Mobile,71.3,6,#ERROR!
+#70,Chipotle,71.2,11,#ERROR!
+#71,Volkswagen Group,70.9,–,#ERROR!
+#72,McDonald's,70.8,16,#ERROR!
+#73,ExxonMobil,70.6,4,#ERROR!
+#74,Papa John's Pizza,70.5,8,#ERROR!
+#75,MLB,69.9,–,#ERROR!
+#76,AT&T,69.3,2,#ERROR!
+#77,Airbnb,69.3,–,#ERROR!
+#78,eBay,69.1,21,#ERROR!
+#79,Goldman Sachs,68.8,14,#ERROR!
+#80,Uber,68.7,2,#ERROR!
+#81,NFL,68.5,–,#ERROR!
+#82,Burger King,68.4,–,#ERROR!
+#83,Charter Communications,68.3,4,#ERROR!
+#84,The Boeing Company,68.3,65,#ERROR!
+#85,Walmart,68.1,6,#ERROR!
+#86,NBA,68,–,#ERROR!
+#87,Bank of America,67.8,5,#ERROR!
+#88,PG&E,66.8,–,#ERROR!
+#89,United Airlines,66.7,3,#ERROR!
+#90,Dollar General,65.6,14,#ERROR!
+#91,BP,65.6,7,#ERROR!
+#92,JCPenney,63.5,9,#ERROR!
+#93,Comcast,63.3,2,#ERROR!
+#94,Fox Corporation,63.1,–,#ERROR!
+#95,Twitter,62.1,6,#ERROR!
+#96,Wells Fargo & Company,61.2,–,#ERROR!
+#97,Facebook,60.8,3,#ERROR!
+#98,Monsanto,55.2,–,#ERROR!
+#99,The Trump Organization,54.5,1,#ERROR!
+#100,Juul Labs,51,–,#ERROR!
+#1,Wegmans,83,1,#ERROR!
+#2,Amazon,82.3,1,#ERROR!
+#3,Patagonia,81.4,6,#ERROR!
+#4,L.L. Bean,80.7,11,#ERROR!
+#5,Walt Disney,80.4,n/a,#ERROR!
+#6,Publix,80.3,2,#ERROR!
+#7,Samsung,80,28,#ERROR!
+#8,Procter & Gamble,79.8,12,#ERROR!
+#9,Microsoft,79.7,2,#ERROR!
+#10,Sony,79.4,21,#ERROR!
+#11,UPS,79.3,4,#ERROR!
+#12,The Home Depot,79.1,14,#ERROR!
+#13,Fidelity,79.1,n/a,#ERROR!
+#14,Kraft Heinz,79,1,#ERROR!
+#15,LG,79,10,#ERROR!
+#16,Hobby Lobby,78.9,28,#ERROR!
+#17,USAA,78.8,17,#ERROR!
+#18,Costco,78.6,1,#ERROR!
+#19,Boeing,78.3,3,#ERROR!
+#20,Lowe's,77.9,2,#ERROR!
+#21,Kroger,77.9,3,#ERROR!
+#22,Chick-fil-A,77.5,18,#ERROR!
+#23,Aldi,77.4,13,#ERROR!
+#24,Netflix,77.3,3,#ERROR!
+#25,Unilever,77.3,12,#ERROR!
+#26,Ikea,77.3,n/a,#ERROR!
+#27,Adidas,77.3,n/a,#ERROR!
+#28,Nestle,77.1,5,#ERROR!
+#29,Dell,77.1,7,#ERROR!
+#30,Nintendo,76.9,n/a,#ERROR!
+#31,Coca-Cola,76.8,4,#ERROR!
+#32,Apple,76.4,3,#ERROR!
+#33,Johnson & Johnson,76.3,7,#ERROR!
+#34,Best Buy,76.1,12,#ERROR!
+#35,Nike,76,23,#ERROR!
+#36,Honda,76,17,#ERROR!
+#37,Toyota,75.9,5,#ERROR!
+#38,Kohl's,75.9,n/a,#ERROR!
+#39,HP,75.6,n/a,#ERROR!
+#40,Walgreens,75.4,1,#ERROR!
+#41,Google,75.4,13,#ERROR!
+#42,Tesla Motors,75.4,39,#ERROR!
+#43,General Electric,75.3,9,#ERROR!
+#44,Under Armour,75.2,n/a,#ERROR!
+#45,Berkshire Hathaway,75.1,21,#ERROR!
+#46,Nordstrom,74.9,9,#ERROR!
+#47,American Express,74.6,3,#ERROR!
+#48,CVS,74.6,1,#ERROR!
+#49,IBM,74.3,17,#ERROR!
+#50,PepsiCo,74.2,5,#ERROR!
+#51,Electronic Arts,73.6,n/a,#ERROR!
+#52,JPMorgan Chase,73.6,11,#ERROR!
+#53,21st Century Fox,73.4,21,#ERROR!
+#54,Southwest Airlines,73.4,11,#ERROR!
+#55,Allstate,73.3,n/a,#ERROR!
+#56,Royal Dutch Shell,73.2,10,#ERROR!
+#57,eBay,73.1,9,#ERROR!
+#58,Ford,73,1,#ERROR!
+#59,Starbucks,72.7,5,#ERROR!
+#60,Dick's Sporting Goods,72.5,n/a,#ERROR!
+#61,Hyundai,72.3,5,#ERROR!
+#62,Capital One,72.1,n/a,#ERROR!
+#63,T-Mobile,71.8,3,#ERROR!
+#64,Verizon,71.6,1,#ERROR!
+#65,Dollar Tree,71.5,4,#ERROR!
+#66,State Farm,71.5,n/a,#ERROR!
+#67,Progressive,71.5,n/a,#ERROR!
+#68,Yum! Brands,71.4,15,#ERROR!
+#69,Macy's,70.7,11,#ERROR!
+#70,General Motors,70.2,6,#ERROR!
+#71,Volkswagen,70.2,2,#ERROR!
+#72,Target,69.9,23,#ERROR!
+#73,Delta Air Lines,69.6,n/a,#ERROR!
+#74,AT&T,69.5,4,#ERROR!
+#75,Citigroup,68.8,7,#ERROR!
+#76,Dollar General,68.2,9,#ERROR!
+#77,ExxonMobil,67.5,3,#ERROR!
+#78,Uber,67.3,2,#ERROR!
+#79,Walmart,66.9,10,#ERROR!
+#80,American Airlines,66.9,3,#ERROR!
+#81,Chipotle,66.8,6,#ERROR!
+#82,Papa John's,66.6,n/a,#ERROR!
+#83,JCPenney,66.6,11,#ERROR!
+#84,BP,66.5,10,#ERROR!
+#85,Fiat Chrysler,65.8,6,#ERROR!
+#86,United Airlines,65.2,4,#ERROR!
+#87,Charter,64.1,1,#ERROR!
+#88,McDonald's,63.7,29,#ERROR!
+#89,Twitter,61.9,n/a,#ERROR!
+#90,Spirit Airlines,61.8,n/a,#ERROR!
+#91,Comcast,61.4,13,#ERROR!
+#92,Bank of America,60.9,n/a,#ERROR!
+#93,Goldman Sachs,60,1,#ERROR!
+#94,Facebook,58.1,43,#ERROR!
+#95,Dish,56.9,6,#ERROR!
+#96,Wells Fargo,52.7,1,#ERROR!
+#97,Sears,52.3,9,#ERROR!
+#98,Trump Org.,50.1,2,#ERROR!
+#99,Phillip Morris,49.4,n/a,#ERROR!
+#100,U.S. Government,48.6,n/a,#ERROR!
